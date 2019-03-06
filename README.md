@@ -1,7 +1,7 @@
 # Post Board -  React And Redux
 
 ## Description
-A Post Board  App made with react and redux. Check the app live [here](https://ezequielmiranda87.github.io/react-task-manager/)
+A Post Board  App made with react and redux. Check the app live [here](https://ezequielmiranda87.github.io/react-post-board)
 
 ## Dependencies
 - React
